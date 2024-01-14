@@ -29,6 +29,9 @@ Elastic Beanstalk는 Go, Java, .NET, Node.js, PHP, Python 및 Ruby에서 개발�
 
 제가 현재 다니고 있는 회사에서는 제품 출시와 함께 앱 서비스를 사용자들에게 제공하기 위해 개발을 진행하고 있었습니다. 회사는 의료기기 회사이기 때문에 기기가 허가가 나지 않는 이상 판매가 불가능 합니다. 즉 허가가 나기 전에는 제가 만든 서비스도 출시가 되지 않는 상황이기에 AWS의 프리티어 서비스를 넘기지 않는 정도의 개발용 서버만 가지고 있었습니다.
 
+<center><img src="https://github.com/GoWoong/blog-post-repo/blob/main/image/Serise-Elastic-Beanstalk/%EC%B4%88%EA%B8%B0%EC%84%9C%EB%B2%84%EA%B5%AC%EC%84%B1.png?raw=true" width="80%" height="80%"/></center>
+<center><p>초기서버구성</p></center>
+
 이런 상황에서 24년 제품 출시 계획이 구체화 되기 시작했고 그로 인한 상용 서비스 준비가 필요하게 되었습니다.
 
 ## 개선해야 했던 사안
